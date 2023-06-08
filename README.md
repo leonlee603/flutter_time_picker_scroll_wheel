@@ -1,16 +1,9 @@
 # ui_container
 
-A new Flutter project.
+A time picker with scroll wheel instead of using showTimePicker().
+
+![image](https://github.com/leonlee603/flutter_time_picker_scroll_wheel/assets/64774630/5ce29680-44a2-4268-8f59-54aaa31f5586)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+There is no any other dependencies added to this project. You can just download the project and run on a simulator on your local environment.
